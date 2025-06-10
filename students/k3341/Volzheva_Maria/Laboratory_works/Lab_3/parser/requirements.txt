@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+aiohttp
+asyncpg
+sqlmodel
+beautifulsoup4
+lxml
+celery[redis]
+pydantic
+python-dotenv==1.0.1
+psycopg2-binary
